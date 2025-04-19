@@ -353,7 +353,7 @@ const Home = () => {
       <Box backgroundColor="#F3F3F3" align="center" marginTop="50px">
         {/* --------------------------------Banner & Search---------------------------------- */}
         <Box
-          backgroundImage={banner1}
+          
           backgroundPosition="center"
           display="flex"
           justifyContent="center"
