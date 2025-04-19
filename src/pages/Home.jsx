@@ -12,7 +12,7 @@ import {
 } from "@chakra-ui/react";
 import MegaMenu from "../component/MegaMenu";
 import { BsCheckLg } from "react-icons/bs";
-import banner1 from "../assets/homepage-banner1.jpg";
+
 import c1 from "../assets/homepage-assets/city1.jpg";
 import c2 from "../assets/homepage-assets/city2.jpg";
 import c3 from "../assets/homepage-assets/city3.jpg";
